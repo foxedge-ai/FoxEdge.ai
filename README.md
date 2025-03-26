@@ -1,0 +1,2 @@
+# FoxEdge.ai
+Edge
